@@ -1,7 +1,6 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import './App.css';
-import mercado from './componentes/mercado.jpg'
 
 
 function App() {
